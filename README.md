@@ -22,7 +22,7 @@ Beware : The service-product has to be tailored to PROFESSIONAL people to comply
          
          
          
-         ![Diagramme de séquence - Couleur (2)](https://user-images.githubusercontent.com/45867644/143606933-2103c983-b01e-4a76-b1b5-543f5a26adf2.png)
+         ![Diagramme de séquence](https://github.com/JeremieDec/instagram-emails-generation-validation/blob/main/diagram.png)
 
         
         
