@@ -1,4 +1,4 @@
-# instagram-emails-generation-validation
+# Instagram-emails-generation-validation
 
 Maybe you or someone you know owns an e-commerce business and would like to generate new leads and future clients. 
 
