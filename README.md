@@ -15,14 +15,13 @@ The emails shows new products, new affiliates, new collaborations, fresh blog co
 It is the goal of the scripts I uploaded here. 
 
 
-Beware : The service-product has to be tailored to PROFESSIONAL people to comply with RGPD rules in vigor accross E.U. In this sense, a file containing names and surnames 
-         has to be declared.
-         A high number of emails become useful with a high delivery rate in the box. Thus I am patient and send 30-50 emails per day automatically with 1 domain 
-         or - more with strategy.
+Be responsible : The service-product has to be tailored to PROFESSIONAL people to comply with RGPD rules in vigor accross E.U. In this sense, a file containing names and                          surnames has to be declared.
+                 A high number of emails become useful with a high delivery rate in the box. Thus I am patient and send 30-50 emails per day automatically with 1 domain 
+                or - more with strategy.
          
          
          
-         ![Diagramme de séquence](https://github.com/JeremieDec/instagram-emails-generation-validation/blob/main/diagram.png)
+![Diagramme de séquence](https://github.com/JeremieDec/instagram-emails-generation-validation/blob/main/diagram.png)
 
         
         
