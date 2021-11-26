@@ -20,5 +20,9 @@ Beware : The service-product has to be tailored to PROFESSIONAL people to comply
          A high number of emails become useful with a high delivery rate in the box. Thus I am patient and send 30-50 emails per day automatically with 1 domain 
          or - more with strategy.
          
+         
+         
+         ![Diagramme de séquence - Couleur (2)](https://user-images.githubusercontent.com/45867644/143606933-2103c983-b01e-4a76-b1b5-543f5a26adf2.png)
+
         
         
