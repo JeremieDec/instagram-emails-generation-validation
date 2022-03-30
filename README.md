@@ -19,7 +19,7 @@ N.B : The service-product shoudl be adressed to PROFESSIONAL people inside compa
                  A high number of emails become useful with a high delivery rate in the box. Thus I am patient and send 30-50 emails per day automatically with 1 domain 
                  or multiple domains and higher sent/day. If you need any help to set-it up, feel free to send me messages. 
                  
-What is the point ? 
+**What is the point ? **
 
 Generate emails adresses with generic email providers from name and surname scrapped on social media and validate them in batch on a third party website. 
          
