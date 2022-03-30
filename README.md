@@ -15,9 +15,13 @@ The emails shows new products, new affiliates, new collaborations, fresh blog co
 It is the goal of the scripts I uploaded here. 
 
 
-Be responsible : The service-product has to be tailored to PROFESSIONAL people to comply with RGPD rules in vigor accross E.U. In this sense, a file containing names and                          surnames has to be declared.
+N.B : The service-product shoudl be adressed to PROFESSIONAL people inside company to comply with RGPD rules accross E.U. Indeed, the file containing names and                          surnames has to be declared as well as "generated and validated" email adresses.
                  A high number of emails become useful with a high delivery rate in the box. Thus I am patient and send 30-50 emails per day automatically with 1 domain 
-                 or multiple domains and higher sent/day. If you need any help to set-it up, feel free to send me messages. I have no idea about how to deal with firewalls or    CDN, that's why I use rotating proxy and parallel scripts, it uses to work a lot of times.
+                 or multiple domains and higher sent/day. If you need any help to set-it up, feel free to send me messages. 
+                 
+What is the point ? 
+
+Generate emails adresses with generic email providers from name and surname scrapped on social media and validate them in batch on a third party website. 
          
          
 ![Diagramme de séquence](https://github.com/JeremieDec/instagram-emails-generation-validation/blob/main/diagram.png)
